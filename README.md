@@ -36,3 +36,10 @@ Flashy is a flashcard application designed to help users learn French vocabulary
 - Launch the application to start learning.
 - Click the "wrong" button to skip to the next word.
 - Click the "right" button to mark a word as known and remove it from the learning list.
+
+## UI
+- **French word**
+![French Card](https://github.com/khushi-rajput04/Flashy-Flashcard-Learning-App/blob/main/french_UI.png)
+
+- **English translation**
+![English Card](https://github.com/khushi-rajput04/Flashy-Flashcard-Learning-App/blob/main/english_UI.png)
