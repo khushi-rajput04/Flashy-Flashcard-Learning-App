@@ -39,7 +39,9 @@ Flashy is a flashcard application designed to help users learn French vocabulary
 
 ## UI
 - **French word**
+
 ![French Card](https://github.com/khushi-rajput04/Flashy-Flashcard-Learning-App/blob/main/french_UI.png)
 
 - **English translation**
+  
 ![English Card](https://github.com/khushi-rajput04/Flashy-Flashcard-Learning-App/blob/main/english_UI.png)
